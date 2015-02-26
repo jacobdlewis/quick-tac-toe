@@ -1,0 +1,14 @@
+@import '../../bower_components/bootstrap-sass/assets/stylesheets/bootstrap';
+
+.game_board {
+  height: 300px;
+  width: 300px;
+  text-align: center;
+  font-size: 48px;
+
+    .tile{
+      height: 100px;
+      width: 100px;
+    }
+
+}
